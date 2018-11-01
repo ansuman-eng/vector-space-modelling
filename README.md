@@ -1,9 +1,8 @@
+Purpose:
+The purpose of this code repository is to provide a Python Based Sentiment Analysis Model built on top of a ranked retrieval system powered by a Vector Space Model. I have used the ISEAR dataset.
+
 ISEAR: 
 The International Survey on Emotion Antecedents and Reactions as a python dataset for MachineLearning
-
-Purpose:
-The purpose of this code repository is to provide a python loader for the Isear Data set
-The ISEAR dataset has been developped by the Swiss National Center of Competence in Research.
 
 Basic documentation:
 The isear.csv file is the actual extract of the dataset, which was provided as an access database.
