@@ -1,3 +1,5 @@
+<samp>
+  
 Purpose:
 The purpose of this code repository is to provide a Python Based Sentiment Analysis Model built on top of a ranked retrieval system powered by a Vector Space Model. I have used the ISEAR dataset.
 
@@ -17,4 +19,6 @@ Caution: Take the results with a pinch of salt. There is considerable scope for 
 
 
 Ansuman Dibyayoti Mohanty - 2016A7PS0043H 
+
+</samp>
 
